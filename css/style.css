@@ -1,0 +1,60 @@
+img{
+	width: 200px;
+}
+body{
+	background-color: #D4DEC8;
+}
+img{
+	margin-left: 107px;
+	margin-right: auto;
+	box-shadow: inset 0px 0px 3px 7px rgba(199,209,192,1),
+        13px 13px 21px 0px rgba(125,120,125,1);
+        border-radius: 8px;
+}
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 12px;
+}
+.glavnidiv{
+  width: 400px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+}
+.i1{
+	width: 349px;
+    height: 24px;
+    border-radius: 8px;
+}
+.i2{
+	height: 24px;
+    border-radius: 8px;
+    margin-left: 28px
+
+}
+.i3{
+	height: 24px;
+    border-radius: 8px;
+
+
+}
+.inputTRE{
+    margin-left: 185px;
+    width: 45px;
+    height: 35px;
+    border-radius: 8px;
+
+
+}
+input{
+	border: 3px solid #D5DDCC;
+	box-shadow: inset 0px 0px 1px 3px rgba(199,209,192,1),
+        13px 13px 21px 0px rgba(125,120,125,1);
+    padding: 4px;
+}
+i{
+	color:#FDFFFF;
+	font-size: 25px; 
+}
